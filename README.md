@@ -39,13 +39,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
-
-###
-
-<img align="left" height="100" src="https://cdn.pfps.gg/pfps/1504-guy-with-purple-hoodie.png"  />
-
-###
-
-<p align="left">no bio yet...</p>
-
-###
